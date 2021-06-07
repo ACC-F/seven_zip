@@ -4,7 +4,14 @@ This file is used to list changes made in each version of seven_zip.
 
 ## Unreleased
 
+- Add remove action to seven_zip_tool
+- [CI] Change ActionsHub actions to main
+- [CI] Change checkout action to v2
+- [CI] Change final step to an echo for faster final step
+
 ## 4.1.1 - *2021-06-01*
+
+- Update delivery configuration
 
 ## 4.1.0 - *2021-05-20*
 
